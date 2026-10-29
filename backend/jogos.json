@@ -1,0 +1,8002 @@
+[
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PC",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo 64",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo 64",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PlayStation 2",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PC",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PlayStation 3",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PC",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PlayStation 4",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PC",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "NES",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "NES",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Steam",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Steam",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Steam",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "NES",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Steam",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "SNES",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "NES",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Steam",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "PC",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "SNES",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "NES",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Super Mario 64",
+    "ano": 1996,
+    "genero": "Plataforma",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.6
+  },
+  {
+    "jogo": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "genero": "Aventura",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.8
+  },
+  {
+    "jogo": "Grand Theft Auto III",
+    "ano": 2001,
+    "genero": "Ação",
+    "plataforma": "PC",
+    "desenvolvedora": "Rockstar Games",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Minecraft",
+    "ano": 2011,
+    "genero": "Sandbox",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Mojang",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Last of Us",
+    "ano": 2013,
+    "genero": "Ação",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Naughty Dog",
+    "nota": 9.7
+  },
+  {
+    "jogo": "The Witcher 3: Wild Hunt",
+    "ano": 2015,
+    "genero": "RPG",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "CD Projekt Red",
+    "nota": 9.8
+  },
+  {
+    "jogo": "God of War",
+    "ano": 2018,
+    "genero": "Ação",
+    "plataforma": "Arcade",
+    "desenvolvedora": "Santa Monica Studio",
+    "nota": 9.6
+  },
+  {
+    "jogo": "Elden Ring",
+    "ano": 2022,
+    "genero": "RPG",
+    "plataforma": "Mega Drive",
+    "desenvolvedora": "FromSoftware",
+    "nota": 9.7
+  },
+  {
+    "jogo": "Pong",
+    "ano": 1972,
+    "genero": "Arcade",
+    "plataforma": "SNES",
+    "desenvolvedora": "Atari",
+    "nota": 7.5
+  },
+  {
+    "jogo": "Space Invaders",
+    "ano": 1978,
+    "genero": "Arcade",
+    "plataforma": "NES",
+    "desenvolvedora": "Taito",
+    "nota": 8.0
+  },
+  {
+    "jogo": "Pac-Man",
+    "ano": 1980,
+    "genero": "Arcade",
+    "plataforma": "Game Boy",
+    "desenvolvedora": "Namco",
+    "nota": 8.5
+  },
+  {
+    "jogo": "Super Mario Bros.",
+    "ano": 1985,
+    "genero": "Plataforma",
+    "plataforma": "Steam",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.5
+  },
+  {
+    "jogo": "The Legend of Zelda",
+    "ano": 1986,
+    "genero": "Aventura",
+    "plataforma": "PC",
+    "desenvolvedora": "Nintendo",
+    "nota": 9.2
+  },
+  {
+    "jogo": "Street Fighter II",
+    "ano": 1991,
+    "genero": "Luta",
+    "plataforma": "PlayStation",
+    "desenvolvedora": "Capcom",
+    "nota": 9.0
+  },
+  {
+    "jogo": "Sonic the Hedgehog",
+    "ano": 1991,
+    "genero": "Plataforma",
+    "plataforma": "Xbox",
+    "desenvolvedora": "Sega",
+    "nota": 8.8
+  },
+  {
+    "jogo": "Doom",
+    "ano": 1993,
+    "genero": "FPS",
+    "plataforma": "Nintendo",
+    "desenvolvedora": "id Software",
+    "nota": 9.0
+  }
+]
